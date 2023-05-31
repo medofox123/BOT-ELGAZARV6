@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.owner = ['201507352301'] //ur owner number
+global.ownername = "𝑴𝑬𝑫𝑶𓅓𝑭𝑶𝑿" //ur owner name
+global.ytname = "YT: mr_x_fox_x" //ur yt chanel name
+global.socialm = "GitHub: medofox123" //ur github or insta name
+global.location = "Africa, Egypt, Belqas" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.ownernomer = "201507352301" //ur number
+global.premium = ['201507352301'] //ur premium number
+global.botname = '201507352301' //ur bot name
+global.linkz = "https://instagram.com/x_mr.fox_x?igshid=ZGUzMzM3NWJiOQ==" //your theme url which will be displayed on whatsapp
+global.websitex = "https://t.me/x_mr_fox_x" //ur website to be displayed
+global.botscript = 'https://youtube.com/@mr_x_fox_x' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "⍣ُهكِرَ بّلُقًاسِ يَقًلُبّ امٌكِ⍣" //ur sticker watermark packname
+global.author = "⍣201507352301⍣" //ur sticker watermark author
+global.wm = "❤️𝑨𝑩𝑫𝑬𝑳𝑯𝑨𝑴𝑬𝑫 𝑩𝑶𝑻❤️." //ur watermark
 
 // Other
 global.sessionName = 'session'
